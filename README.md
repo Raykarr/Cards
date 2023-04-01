@@ -1,8 +1,6 @@
 # Cards
 This repository contains a Java program for simulating a deck of cards. The program includes two classes: Card and Deck.
 
-This repository contains a Java program for simulating a deck of cards. The program includes two classes: Card and Deck.
-
 Card Class
 The Card class represents a single playing card, with a suit and a rank. It has the following methods:
 
